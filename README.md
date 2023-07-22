@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)
+[![logo](media%2Fpictures%2Flogo.png)](https://github.com/Snailclimb/JavaGuide)
 
 [![阅读](https://img.shields.io/badge/阅读-read-brightgreen.svg)](https://javaguide.cn/)
 ![Stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide)
